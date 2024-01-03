@@ -1,5 +1,5 @@
 a=0
-b=1
+b=6
 print(a)
 print(b)
 for i in range(2,7):

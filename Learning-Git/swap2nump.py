@@ -1,10 +1,10 @@
-'''swapping two Numbers
+'''swapping two Numbers'''
 
 x=20
 y=30
 
 O//P x=50
-     y=20'''
+     y=100
 
 x=int(input("Enter first number")) #X=15
 y=int(input("Enter second number")) #Y=20
